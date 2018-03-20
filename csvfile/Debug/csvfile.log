@@ -1,0 +1,38 @@
+﻿Build started 25-12-2017 10:00:59 PM.
+     1>Project "C:\Users\acer\documents\visual studio 2013\Projects\csvfile\csvfile\csvfile.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\acer\documents\visual studio 2013\projects\csvfile\csvfile\fileloads.h(73): warning C4101: 'j' : unreferenced local variable
+     1>c:\users\acer\documents\visual studio 2013\projects\csvfile\csvfile\fileloads.h(256): warning C4101: 'c' : unreferenced local variable
+     1>c:\users\acer\documents\visual studio 2013\projects\csvfile\csvfile\fileloads.h(279): warning C4101: 'c' : unreferenced local variable
+     1>c:\users\acer\documents\visual studio 2013\projects\csvfile\csvfile\fileloads.h(317): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\acer\documents\visual studio 2013\projects\csvfile\csvfile\fileloads.h(313): warning C4101: 'c' : unreferenced local variable
+     1>c:\users\acer\documents\visual studio 2013\projects\csvfile\csvfile\fileloads.h(340): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\acer\documents\visual studio 2013\projects\csvfile\csvfile\fileloads.h(336): warning C4101: 'c' : unreferenced local variable
+     1>c:\users\acer\documents\visual studio 2013\projects\csvfile\csvfile\fileloads.h(363): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\acer\documents\visual studio 2013\projects\csvfile\csvfile\fileloads.h(359): warning C4101: 'c' : unreferenced local variable
+     1>c:\users\acer\documents\visual studio 2013\projects\csvfile\csvfile\fileloads.h(386): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\acer\documents\visual studio 2013\projects\csvfile\csvfile\fileloads.h(382): warning C4101: 'c' : unreferenced local variable
+     1>c:\users\acer\documents\visual studio 2013\projects\csvfile\csvfile\fileloads.h(405): warning C4101: 'c' : unreferenced local variable
+     1>c:\users\acer\documents\visual studio 2013\projects\csvfile\csvfile\fileloads.h(428): warning C4101: 'c' : unreferenced local variable
+     1>c:\users\acer\documents\visual studio 2013\projects\csvfile\csvfile\fileloads.h(558): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\acer\documents\visual studio 2013\projects\csvfile\csvfile\fileloads.h(574): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\acer\documents\visual studio 2013\projects\csvfile\csvfile\fileloads.h(577): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\acer\documents\visual studio 2013\projects\csvfile\csvfile\fileloads.h(580): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\acer\documents\visual studio 2013\projects\csvfile\csvfile\fileloads.h(583): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\acer\documents\visual studio 2013\projects\csvfile\csvfile\fileloads.h(601): warning C4244: 'argument' : conversion from '__int64' to 'float', possible loss of data
+     1>c:\users\acer\documents\visual studio 2013\projects\csvfile\csvfile\fileloads.h(920): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\acer\documents\visual studio 2013\projects\csvfile\csvfile\fileloads.h(1122): warning C4101: 'buf2' : unreferenced local variable
+     1>c:\users\acer\documents\visual studio 2013\projects\csvfile\csvfile\fileloads.h(1133): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\acer\documents\visual studio 2013\projects\csvfile\csvfile\fileloads.h(1164): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\acer\documents\visual studio 2013\projects\csvfile\csvfile\fileloads.h(1259): warning C4101: 'k' : unreferenced local variable
+     1>c:\users\acer\documents\visual studio 2013\projects\csvfile\csvfile\fileloads.h(310): warning C4715: 'compar1qur' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\acer\documents\visual studio 2013\Projects\csvfile\Debug\csvfile.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\acer\documents\visual studio 2013\Projects\csvfile\Debug\csvfile.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\acer\documents\visual studio 2013\Projects\csvfile\Debug\csvfile.lib" /MACHINE:X86 Debug\main.obj
+         csvfile.vcxproj -> C:\Users\acer\documents\visual studio 2013\Projects\csvfile\Debug\csvfile.exe
+     1>Done Building Project "C:\Users\acer\documents\visual studio 2013\Projects\csvfile\csvfile\csvfile.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.30
